@@ -1,0 +1,14 @@
+/* Minimal global reset. The dashboard sets its own gradient background. */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family: var(--font-dm-sans), system-ui, sans-serif;
+  color: #1e3a4a;
+}
