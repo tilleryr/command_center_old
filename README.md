@@ -1,4 +1,4 @@
-A personal dashboard set up to show today's calendar, weather, task list, and progress on my goals. Information stored and updated in Supabase. Deployed on Vercel and vibe coded with Claude.
+The original personal dashboard I set up to show today's calendar, weather, task list, and progress on my goals. Information stored and updated in Supabase. Deployed on Vercel and vibe coded with Claude. No longer updated. 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
